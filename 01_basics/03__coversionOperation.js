@@ -12,15 +12,34 @@ let valueinNumber = Number(score)
 // true => 1; false => 0
 
 
- let isLoggedIn = "Suraj"
- let booleanisLoggedIn = Boolean(isLoggedIn)
- // console.log(booleanisLoggedIn)
+let isLoggedIn = "Suraj"
+let booleanisLoggedIn = Boolean(isLoggedIn)
+// console.log(booleanisLoggedIn)
 
- // 1 => true; 0 => false
- // "" => false ; 
- //"Suraj" => true
+// 1 => true; 0 => false
+// "" => false ; 
+//"Suraj" => true
 
- let someNumber = 33
- let stringNumber = String(someNumber)
- console.log(stringNumber);
- console.log(typeof stringNumber);
+let someNumber = 33
+let stringNumber = String(someNumber)
+//console.log(stringNumber);
+//console.log(typeof stringNumber);
+
+// ***************** Conversions **********************************
+
+let value = 3
+let negValue = -value
+//console.log(negValue)
+//console.log(2*2);
+//console.log(2**2);
+//console.log(2**4);
+//console.log(2/3);
+//console.log(2%3);
+let str1 = "Hello";
+let str2 = " Suraj";
+let str3 = str1 + str2
+//console.log(str3)
+//console.log("1"+2)
+//console.log(1+"2")
+//console.log("1" + 2 + 2)
+//console.log(1+2+"2")
